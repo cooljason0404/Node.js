@@ -1,0 +1,16 @@
+{
+  "name": "RedisLoggerPublisher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "redis.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^2.8.0",
+    "socket.io": "^2.1.1"
+  }
+}
